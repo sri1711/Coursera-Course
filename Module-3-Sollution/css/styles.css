@@ -1,0 +1,96 @@
+#header-nav{
+  background-color: #f6b319;
+  border-radius: 0;
+  border: 0;
+  position: auto;
+  margin-bottom: 0px;
+}
+
+.navbar-brand h1{
+  color: #800040;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 3px 1px 1px #225;
+  margin-top: 0;
+  margin-bottom: 0;
+  letter-spacing: 2px;
+  line-height: .75;
+}
+h1{
+  padding-bottom: 20px;
+  padding-top:10px;
+}
+
+p{
+  padding: 10px;
+}
+
+.content-head > br{
+  padding-bottom: 10px;
+}
+
+div > h1{
+  color:#f6b319;
+}
+
+h2{
+  background-color: #f6b319;
+  color: #800040;
+}
+
+#nav-container{
+  padding-left: 15px;
+}
+
+#collapsable-nav{
+  border-top: 0;
+}
+
+p{
+  background-color: #800040;
+}
+
+#content-head{
+  padding-left: 42%;
+  font-size: 1.5em;
+}
+
+
+#main-content{
+  background-color: #800040;
+  margin-right: auto;
+  padding-right: 20px;
+  padding-left: 20px;
+  margin-left: auto; 
+}
+
+#content-cotainer{
+  margin-left: 0px;
+  margin-right: 0px;
+  padding: 0px;
+}
+
+#nav-list{
+  text-align: center;
+  text-transform: uppercase;
+  color: #800040;
+  font-weight: bold;
+  margin-top: 0px;
+  margin-bottom: 0px
+}
+li:hover{
+  background-color: white;
+  cursor: pointer;
+}
+
+p{
+  background-color: #f6b319;
+  color: #800040;; 
+}
+
+li{
+  border : 1px solid black;
+  padding : 15px;
+  margin : auto;
+ }
