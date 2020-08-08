@@ -52,7 +52,7 @@ p{
 }
 
 #content-head{
-  padding-left: 46%;
+  padding-left: 44%;
   font-size: 1.5em;
 }
 
@@ -97,6 +97,6 @@ li{
 
  @media(max-width: 767px){
   #content-head{
-  padding-left: 40%;
+  padding-left: 41%;
 }
  }
