@@ -98,6 +98,7 @@ li{
 
  @media(max-width: 767px){
   #content-head{
+<<<<<<< HEAD
   padding-left: 38%;
 }
  }
@@ -115,3 +116,20 @@ li{
   padding-left: 41%;
 }
  }
+=======
+    padding-left: 38%;
+  }
+ }
+
+ @media(min-width: 768px) and (max-width: 976px){
+    #content-head{
+      padding-left: 44%;
+    }
+ }
+
+@media(max-width: 768px) and (min-width: 570px){
+    #content-head{
+      padding-left: 41%;
+    }
+}
+>>>>>>> 434efc491a0662831cd1ecee184e080de8bc63ea
